@@ -21,7 +21,7 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '贝利亚大帝',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'orCb27FKbE8gee6sZHgyPt9iE2GA','lXQFLblTqLSubPVA8HgceVXkLjbLWv4g8jrenSWIFCE','orCb27PEa7352DeMp-GseZsWOa-w'
+      id: 'orCb27FKbE8gee6sZHgyPt9iE2GA'
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 'lXQFLblTqLSubPVA8HgceVXkLjbLWv4g8jrenSWIFCE',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
