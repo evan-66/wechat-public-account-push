@@ -35,6 +35,7 @@ const USER_CONFIG = {
         {
           type: '阳历出壳日', name: '小王', year: '2006', date: '04-06',
         },
+        ]
     },
   ],
 
